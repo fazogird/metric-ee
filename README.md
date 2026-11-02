@@ -10,6 +10,8 @@ Har bir model **alohida papkada** joylashgan va alohida git tag bilan belgilanga
 | [`pymetric-nieto/`](pymetric-nieto/README.md) | **pyMETRIC** (Hector Nieto, IRTA) v1.0 | [hectornieto/pyMETRIC](https://github.com/hectornieto/pyMETRIC) | Lokal raster (GDAL + pyTSEB) | `pymetric-nieto-v1.0` |
 | [`pymetric-wswup/`](pymetric-wswup/README.md) | **pymetric** (WSWUP / DRI) v0.2.3 | [WSWUP/pymetric](https://github.com/WSWUP/pymetric) | Lokal Landsat pipeline (GDAL + NumPy) | `pymetric-wswup-v0.2.3` |
 
+Uchala modelni yonma-yon solishtirish (formulalar, raqamli jadvallar, tavsiyalar) — [`taqqoslash/`](taqqoslash/README.md). Bu bo'lim model papkalaridagi formulalarni o'zgartirmaydi, faqat ularga havola beradi.
+
 > 📜 Umumiy ilmiy asos: Allen, R.G., Tasumi, M., Trezza, R. (2007). *Satellite-Based Energy Balance for Mapping Evapotranspiration with Internalized Calibration (METRIC) — Model*. J. Irrig. Drain. Eng., 133(4), 380–394.
 
 ## Tag bo'yicha yuklab olish
